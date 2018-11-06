@@ -9,3 +9,5 @@ disqus_shortname: "example"
 copyright_year: "2016"
 google_analytics_code: ""
 aboutme: "I like ramen noodles with cream."
+
+theme: jekyll-theme-time-machine
